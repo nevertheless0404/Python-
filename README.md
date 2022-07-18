@@ -1,5 +1,4 @@
 # 🔥Python
----
 ## ✏️ Study
 - [python-01](https://github.com/nevertheless0404/Python-/blob/master/Python-01.md)
 - [python-02](https://github.com/nevertheless0404/Python-/tree/master/python-02)
