@@ -155,7 +155,7 @@ print(add2(7,4))
 
 - 패키지 활용 명령어
 
-  ```
+  ```python
   $ pip install SomePackage # SomePackage 설치
   $ pip install SomePackage==1.0.5 # SomePackage 버전 1.0.5 설치
   $ pip install 'SomePackage>=1.0.4'
